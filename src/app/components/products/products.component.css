@@ -1,0 +1,15 @@
+.card-height{
+    height: 400px;
+}
+
+.image-width{
+    width: 211px;
+    height: 235px;
+    object-fit: contain;
+    
+}
+
+.fs-7{
+    font-size: 15px;
+    
+}
